@@ -1,2 +1,2 @@
 # DIO_Java_Basic
-Curso de Java basico - DIO
+Curso de Java básico - DIO
